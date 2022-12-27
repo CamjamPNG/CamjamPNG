@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Gluson**
 
-- 👨‍💻 All of my projects are available at [here](here)
-
 - ⚡ Fun fact **I am nerdy**
 
 <h3 align="left">Connect with me:</h3>
